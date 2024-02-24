@@ -249,3 +249,17 @@
         display: none
     }
 }
+
+@media (max-width: 580px){
+    h2 {
+        font-size: 3rem;
+    }
+
+    #grid-two div .grid-main-heading {
+        font-size: 2.9rem;
+    }
+
+    section div {
+        padding-left: 15px;
+    }
+}
